@@ -1,0 +1,8 @@
+.idea/
+
+packages/
+
+GateBLiftGrenadeFix/bin/
+GateBLiftGrenadeFix/obj/
+GateBLiftGrenadeFix/Properties/
+GateBLiftGrenadeFix/EmergencyButtonDisabler.csproj
